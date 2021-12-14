@@ -1,0 +1,19 @@
+{
+  "name": "test-tg-bot",
+  "version": "1.0.0",
+  "description": "WeatherBot",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "keywords": [
+    "Cat"
+  ],
+  "author": "Yevhenii Skrypkin",
+  "license": "ISC",
+  "dependencies": {
+    "node-geocoder": "^3.28.0",
+    "telegraf": "^4.4.2",
+    "theweatherapi": "^2.2.2"
+  }
+}
