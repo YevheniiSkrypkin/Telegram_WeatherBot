@@ -3,7 +3,7 @@ This is my first try to create a Telegram Bot using Telegraf API, Weather API an
 
 Bot is running on Node.js.
 
-To launch bot using cmd line< run command 'node index.js'
+To launch bot using cmd line run command 'node index.js'
 
 This bot is not located on any server, so it is available only when launched.
 
